@@ -1,0 +1,7 @@
+body{
+    background: rgb(124,63,255);
+    background: linear-gradient(90deg, rgba(124,63,255,1) 0%, rgba(245,12,12,1) 100%);
+}
+#navbar{
+    font-size: 20px;
+}

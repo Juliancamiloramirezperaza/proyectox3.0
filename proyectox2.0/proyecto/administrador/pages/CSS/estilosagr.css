@@ -1,0 +1,26 @@
+body{
+    background: rgb(124,63,255);
+    background: linear-gradient(90deg, rgba(124,63,255,1) 0%, rgba(245,12,12,1) 100%);
+}
+h1{
+    color: white;
+    text-shadow: 4px 4px 20px black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form{
+    background: rgba(255, 255, 255, 0.593);
+    width: 50% ;
+    font-size: 30px;
+    border-radius: 10px;
+    margin: 20px auto ;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#Enviar{
+    position: relative;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black;
+    background: rgb(137, 155, 255);
+}
